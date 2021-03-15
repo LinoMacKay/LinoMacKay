@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @LinoMacKay
 - 👀 I’m a Software Engineering student from Peru, at UPC (Universidad Peruana de Ciencias Aplicadas). I'm mainly (at least right now) focusing in FrontEnd Development.
 - My technical skills are:
-  -Angular (7/10)
-  -Vue      (6/10)
-  -React JS (6/10)
-  -Node JS  (7/10)
-  -SQL Databases (7.5/10)
-  -.Net       (7.5/10)
-  -Flutter    (6/10)
-  -SpringBoot  (6/10)
+  * Angular (7/10)
+  * Vue      (6/10)
+  * React JS (6/10)
+  * Node JS  (7/10)
+  * SQL Databases (7.5/10)
+  * .Net       (7.5/10)
+  * Flutter    (6/10)
+  * SpringBoot  (6/10)
   
  * 1-3 Just a newbie.
  * 4-6 I made a small project with it.
