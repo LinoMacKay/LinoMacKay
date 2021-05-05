@@ -8,6 +8,7 @@
   * SQL Databases (7.5/10)
   * .Net       (7.5/10)
   * Flutter    (6/10)
+  * CSS / SCSS (8/10)
   * SpringBoot  (6/10)
   
  * 1-3 Just a newbie.
