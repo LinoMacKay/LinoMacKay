@@ -7,7 +7,7 @@
   * Node JS  (7/10)
   * SQL Databases (7.5/10)
   * .Net       (7.5/10)
-  * Flutter    (7/10)
+  * Flutter    (8/10)
   * CSS / SCSS (8/10)
   * SpringBoot  (6/10)
   
