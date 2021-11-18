@@ -10,6 +10,7 @@
   * Flutter    (8/10)
   * CSS / SCSS (8/10)
   * SpringBoot  (6/10)
+  * Golang (5.5/10)
   
  * 1-3 Just a newbie.
  * 4-6 I made a small project with it.
