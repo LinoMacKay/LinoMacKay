@@ -22,7 +22,7 @@ www.Linomackay.com
 Languages:
 English (Intermediate)
 Spanish (Native)
-French (je peux parler à petit peu de français)
+French (je peux parler un petit peu de français)
 
 
 <!---
